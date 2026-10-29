@@ -1,0 +1,40 @@
+{
+    "colors": {
+        "Palette": {
+            "Window": "#1f2530",
+            "WindowText": "#c8d0dc",
+            "Base": "#1f2530",
+            "AlternateBase": "#232a36",
+            "Text": "#c8d0dc",
+            "ToolTipBase": "#181d26",
+            "ToolTipText": "#c8d0dc",
+            "BrightText": "#ffffff",
+            "Highlight": "#4f8fd8",
+            "HighlightedText": "#0f131a",
+            "Button": "#272e3b",
+            "ButtonText": "#c8d0dc",
+            "Link": "#4f8fd8",
+            "LinkVisited": "#6aa3e6"
+        },
+        "TransferList": {
+            "Downloading": "#4f8fd8",
+            "StalledDownloading": "#7d889a",
+            "DownloadingMetadata": "#e8a23c",
+            "ForcedDownloading": "#6aa3e6",
+            "Allocating": "#e8a23c",
+            "Uploading": "#56b6c2",
+            "StalledUploading": "#7d889a",
+            "ForcedUploading": "#56b6c2",
+            "QueuedDownloading": "#a3adbc",
+            "QueuedUploading": "#a3adbc",
+            "CheckingDownloading": "#e8a23c",
+            "CheckingUploading": "#e8a23c",
+            "CheckingResumeData": "#e8a23c",
+            "PausedDownloading": "#7d889a",
+            "PausedUploading": "#7d889a",
+            "Moving": "#e8a23c",
+            "MissingFiles": "#e06c75",
+            "Error": "#e06c75"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+# built themes: attach these to GitHub Releases instead
+*.qbtheme
+
+# editor / OS junk
+*.swp
+*~
+.DS_Store
